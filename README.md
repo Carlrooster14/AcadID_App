@@ -62,4 +62,4 @@ User Stories:
 
 Prototype AcadId version 1.1
 
-![PrototypeGif](https://github.com/Carlrooster14/AcadID_App/blob/main/AcadID.gif)
+![PrototypeGif](https://github.com/Carlrooster14/AcadID_App/blob/main/AcadID.gif))
